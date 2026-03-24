@@ -1,0 +1,10 @@
+[project]
+name = "organic-unprompted"
+version = "0.1.0"
+description = "A collection of math routines and algorithms"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+]
