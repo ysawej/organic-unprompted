@@ -5,6 +5,7 @@ description = "A collection of math routines and algorithms"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "jupyterlab==4.5.6",
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
 ]
